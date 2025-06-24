@@ -2,7 +2,7 @@
 
 ![](https://hit.yhype.me/github/profile?account_id=216888188)
 
-![](https://komarev.com/ghpvc/?username=poojari0057&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=poojari0057&color=blueviolet&style=for-the-badge)
 
 
 <!--
