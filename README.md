@@ -1,4 +1,4 @@
-## Hi there 👋
+## <h1 align="center">Hi 👋</h1>
 
 ![](https://hit.yhype.me/github/profile?account_id=216888188)
 
