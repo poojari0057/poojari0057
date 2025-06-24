@@ -2,6 +2,8 @@
 
 ![](https://hit.yhype.me/github/profile?account_id=216888188)
 
+![](https://komarev.com/ghpvc/?username=poojari0057)
+
 
 <!--
 **poojari0057/poojari0057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
